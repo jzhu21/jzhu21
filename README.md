@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jing.
 - :stew: My husband and I cook amazing food and make fun cocktails. :cocktail:
 - :shipit: We love the squirrels in our backyard. 
-- 🌱 I’m currently researching active learning techniques.
+- 🌱 I'm currently a data scientist at Capital One.
 - 📫 You can reach me at zhujing90@gmail.com.
 
 <!---
